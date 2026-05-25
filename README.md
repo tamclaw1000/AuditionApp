@@ -1,0 +1,3 @@
+# AuditionApp
+
+Initial project scaffold.
