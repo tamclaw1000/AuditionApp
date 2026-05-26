@@ -42,4 +42,5 @@
 ## Additional future functionality to keep in mind for the future development
 1. AI scan of the videos to identify strong/weak performance points and the general grade of the performance.
 2. Camp can configure the template of AI scan to choose the skills to pay additional attention to.
-3. Applicants can run a generic AI scan on the recording versions beofre submitting the application. 
+3. Applicants can run a generic AI scan on the recording versions beofre submitting the application.
+4. English is the default language, but Gernman, Franch and Italian languages should be supported in the future across the board.  
